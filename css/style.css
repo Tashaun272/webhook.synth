@@ -2,11 +2,8 @@ html, body {
     height: 100%;
 }
 
-body {
-    margin: 0;
-    background: #2C3E50;
-    font-family: 'Lato', sans-serif;
-    color: #ECF0F1
+body { 
+    background: url("https://w.wallhaven.cc/full/6q/wallhaven-6qx916.png");
 }
 
 .container {
